@@ -176,9 +176,4 @@ Signed by the Founding Members:
 - de-husk
 - bmorphism
 - maxjuno
-- trevorjtclarke
-- kevingarrison
-- ebaker
-- modern-edamame
-- rakataprime
-- ben2x4
+- HorizonsLaw
